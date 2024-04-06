@@ -1,0 +1,24 @@
+"Games"
+{
+	"tf"
+	{
+		"Signatures"
+		{
+			"GetRandomBotName"
+			{
+				"library" "server"
+				"linux" "@_Z16GetRandomBotNamev"
+			}
+		}
+		"Functions"
+		{
+			"GetRandomBotName"
+			{
+				"signature" "GetRandomBotName"
+				"callconv" "cdecl"
+				"return" "charptr"
+				"this" "ignore"
+			}
+		}
+	}
+}

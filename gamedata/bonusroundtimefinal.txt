@@ -1,0 +1,14 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTeamplayRoundBasedRules::GetBonusRoundTime"
+			{
+				"linux" "188"
+				"windows" "187"
+			}
+		}
+	}
+}

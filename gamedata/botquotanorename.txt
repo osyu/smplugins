@@ -1,0 +1,14 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CVEngineServer::SetFakeClientConVarValue"
+			{
+				"linux" "84"
+				"windows" "84"
+			}
+		}
+	}
+}
